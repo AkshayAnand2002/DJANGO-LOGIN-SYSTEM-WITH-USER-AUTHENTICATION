@@ -26,6 +26,7 @@ FOR CREATING FILES FOR DJANGO
 
 django-admin startproject registration
 
+https://drive.google.com/file/d/1Q4h1FoU4jhH3zkOcoW1-EoPjKmmDhaTb/view?usp=sharing
 python manage.py startapp app1
 
 FOR RUNNING DEVELOPMENT SERVER OR RUNNING ON DEVICE
